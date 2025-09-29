@@ -1,6 +1,6 @@
 # GPSMapProject — Embedded Linux GPS Navigation System
 
-This project was developed as the **final project for Embedded Systems & Embedded Linux Development Class**. It implements a **GPS-based navigation system** running on an ARM/Linux board. The system loads custom map data (latitude/longitude), constructs a road network, displays live GPS coordinates, and calculates the **shortest path** between a start and end point.
+This project was developed for ** Embedded Systems & Embedded Linux Development Class**. It implements a **GPS-based navigation system** running on an ARM/Linux board. The system loads custom map data (latitude/longitude), constructs a road network, displays live GPS coordinates, and calculates the **shortest path** between a start and end point.
 
 ---
 
