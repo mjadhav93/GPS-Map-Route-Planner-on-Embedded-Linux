@@ -4,7 +4,7 @@ This project was developed as the **final project for Embedded Systems & Embedde
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * Displays **real-time latitude and longitude** while moving.
 * Divides the map into blocks and loads only the relevant block for efficiency.
@@ -16,7 +16,7 @@ This project was developed as the **final project for Embedded Systems & Embedde
 
 ---
 
-## 📂 Data Files
+##  Data Files
 
 * **`node.txt`** — Stores all map nodes:
 * **`graph.txt`** — Adjacency matrix representing road connectivity (`1 = connected, 0 = not connected`).
@@ -24,7 +24,7 @@ This project was developed as the **final project for Embedded Systems & Embedde
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **GPS Reader**: Continuously updates current latitude/longitude.
 2. **Start Capture**: Saves starting position in `start.txt`.
